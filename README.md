@@ -131,7 +131,7 @@ Analyzes:
 
 ### Page 2 — Product & Payment Analysis
 
-![Product & Payment Analysis](Dashboard/page2_product_payment.png)
+![Product & Payment Analysis](Dashboard/page2_product_paymenr.png)
 
 ### Page 3 — Customer & Delivery Analysis
 
