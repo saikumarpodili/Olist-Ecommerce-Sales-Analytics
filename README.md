@@ -160,6 +160,19 @@ A relatively small group of customers make repeat purchases.
 Product revenue is concentrated among a group of high-performing categories.
 Delivery performance varies across months.
 Customer reviews can be analyzed alongside delivery performance to understand customer satisfaction.
+
+## 📊 Dashboard Preview
+
+### Page 1 — Executive Overview
+![Executive Overview](Dashboard/Page1_executive_overview.png)
+
+### Page 2 — Product & Payment Analysis
+![Product & Payment Analysis](Dashboard/page2_product_payment.png)
+
+### Page 3 — Customer & Delivery Analysis
+![Customer & Delivery Analysis](Dashboard/page3_customer_delivery_dashboard.png)
+
+---
 📁 Repository Structure
 Olist-Ecommerce-Sales-Analytics/
 │
