@@ -67,7 +67,8 @@ Feature Engineering
      ↓
 Power BI Dashboard
      ↓
-Business Insights📊 Key KPIs
+Business Insights
+📊 Key KPIs
 KPI
 Value
 Total Orders
@@ -96,22 +97,26 @@ Average Review Score
 Average Order Value
 Monthly Revenue Trend
 Orders by Customer State
-�
 Page 2 – Product & Payment Analysis
 Analyzes:
 Revenue by Payment Type
 Revenue Contribution by Product Category
 Top 10 Sellers by Revenue
 Top 10 Product Categories by Revenue
-�
 Page 3 – Customer & Delivery Analysis
 Analyzes:
 Unique Customers
 Repeat Customers
 Average Delivery Days
 Late Delivery %
-Delivery performance by month
-Delivery days by review score
+Delivery Performance by Month
+Delivery Days by Review Score
+🖼️ Dashboard Preview
+Page 1 — Executive Overview
+�
+Page 2 — Product & Payment Analysis
+�
+Page 3 — Customer & Delivery Analysis
 �
 🧮 SQL Analysis
 The SQL analysis covers:
@@ -130,7 +135,7 @@ Average Delivery Days
 Late Delivery Percentage
 Review Score Distribution
 Repeat Customer Analysis
-SQL file:
+SQL File
 SQL/ecommerce_analysis_sql
 🐍 Python EDA
 Python was used for:
@@ -144,7 +149,7 @@ Product category analysis
 Delivery analysis
 Review score analysis
 Repeat customer analysis
-Notebook:
+Notebook
 Python/01_Ecommerce_EDA.ipynb
 🔍 Feature Engineering
 Important features created during analysis include:
@@ -159,20 +164,7 @@ Credit-card payments contribute the largest share of payment revenue.
 A relatively small group of customers make repeat purchases.
 Product revenue is concentrated among a group of high-performing categories.
 Delivery performance varies across months.
-Customer reviews can be analyzed alongside delivery performance to understand customer satisfaction.'''
-
-## 📊 Dashboard Preview
-
-### Page 1 — Executive Overview
-![Executive Overview](Dashboard/Page1_executive_overview.png)
-
-### Page 2 — Product & Payment Analysis
-![Product & Payment Analysis](Dashboard/page2_product_payment.png)
-
-### Page 3 — Customer & Delivery Analysis
-![Customer & Delivery Analysis](Dashboard/page3_customer_delivery_dashboard.png)
-
----
+Customer reviews can be analyzed alongside delivery performance to understand customer satisfaction.
 📁 Repository Structure
 Olist-Ecommerce-Sales-Analytics/
 │
@@ -206,6 +198,6 @@ GitHub Portfolio Management
 👨‍💻 Author
 Sai Kumar Podili
 B.Tech – Computer Science & Engineering (AI & ML)
-Interested in Data Analytics, Data Science and AI/ML.
+Interested in Data Analytics, Data Science, and AI/ML.
 ⭐ This project demonstrates an end-to-end approach to transforming raw e-commerce data into actionable business insights.
-
+Interested in Data Analytics, Data Science, and AI/ML.
