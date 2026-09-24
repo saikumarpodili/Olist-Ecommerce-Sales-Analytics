@@ -159,7 +159,7 @@ Credit-card payments contribute the largest share of payment revenue.
 A relatively small group of customers make repeat purchases.
 Product revenue is concentrated among a group of high-performing categories.
 Delivery performance varies across months.
-Customer reviews can be analyzed alongside delivery performance to understand customer satisfaction.
+Customer reviews can be analyzed alongside delivery performance to understand customer satisfaction.'''
 
 ## 📊 Dashboard Preview
 
